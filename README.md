@@ -1,3 +1,7 @@
+<img width="759" alt="a4" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/04a26a01-bb14-4d7a-9332-f87bb706e9c1">
+![Uploading a3.png…]()
+<img width="759" alt="a4" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/5acaea71-25bf-462c-b2e3-a95bde49c4b8">
+![Uploading a3.png…]()
 # aks_network_observability
  The Grafana dashboard for Network Observability add-on for AKS.
 
@@ -37,3 +41,7 @@ az aks get-credentials --name testakscluster --resource-group testresourcegroup
 The Grafana dashboard for Network Observability add-on for AKS.
 https://grafana.com/grafana/dashboards/18814-kubernetes-networking/
 ID: 18814
+
+![Uploading a2.png…]()
+![Uploading a1.png…]()
+
