@@ -1,7 +1,4 @@
-<img width="759" alt="a4" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/04a26a01-bb14-4d7a-9332-f87bb706e9c1">
-<img width="754" alt="a3" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/7699027f-60c1-42f8-ada5-c7ebc5d919e3">
-<img width="759" alt="a4" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/5acaea71-25bf-462c-b2e3-a95bde49c4b8">
-![Uploading a3.png…]()
+
 # aks_network_observability
  The Grafana dashboard for Network Observability add-on for AKS.
 
@@ -42,10 +39,9 @@ The Grafana dashboard for Network Observability add-on for AKS.
 https://grafana.com/grafana/dashboards/18814-kubernetes-networking/
 ID: 18814
 
-![Uploading a2.png…]()
 ![Uploading a1.png…]()
-
-<img width="759" alt="a4" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/2b1ee2af-0abf-42a1-80fa-e6c48b7effd4">
-![Uploading a3.png…]()
-<img width="759" alt="a4" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/f2d6d820-65bb-4475-9f89-59a9af6cd2f3">
+![Uploading a2.png…]()
+<img width="754" alt="a3" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/cae328ec-a10d-4347-a90c-8774413d31eb">
+<img width="759" alt="a4" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/e53adf35-7600-4b15-a3bf-78d1e5e9a832">
+<img width="817" alt="a5" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/95da33e9-5eb1-45a3-b8de-de0283410da6">
 
