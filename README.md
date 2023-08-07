@@ -39,9 +39,36 @@ The Grafana dashboard for Network Observability add-on for AKS.
 https://grafana.com/grafana/dashboards/18814-kubernetes-networking/
 ID: 18814
 
-![Uploading a1.png…]()
-![Uploading a2.png…]()
-<img width="754" alt="a3" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/cae328ec-a10d-4347-a90c-8774413d31eb">
-<img width="759" alt="a4" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/e53adf35-7600-4b15-a3bf-78d1e5e9a832">
-<img width="817" alt="a5" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/95da33e9-5eb1-45a3-b8de-de0283410da6">
+<img width="767" alt="a1" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/1f2eea79-ea25-4e3e-875b-ac2b69f9133b">
+
+<img width="801" alt="a2" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/399605bd-88af-4921-955e-aef884582358">
+
+<img width="754" alt="a3" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/f99d5051-d833-474c-b188-a7714c3b96f4">
+
+<img width="759" alt="a4" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/266a2dc9-33f0-4b4e-b961-a0c397dfb8f5">
+
+<img width="824" alt="a45" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/04af26f5-3748-45d4-8c4e-c17097e14e39">
+
+<img width="817" alt="a5" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/0909c611-1680-4151-bd89-8cf47fadfc6a">
+
+<img width="820" alt="a6" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/19f60f1f-1baa-47fe-b451-cb313e49e8ca">
+
+<img width="821" alt="a7" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/676c9e78-442b-490c-9feb-bca8aa9893ba">
+
+<img width="824" alt="a8" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/e251f2da-c1ca-4b96-87e2-d77e3d63c8e6">
+
+<img width="825" alt="a9" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/0eb254d6-6df4-4a66-a3ea-9f11b9961823">
+
+<img width="828" alt="s9" src="https://github.com/Maheshk-MSFT/aks_network_observability/assets/61469290/a7e96558-9acb-42b9-bdf9-c401ea5327b8">
+
+
+
+
+
+
+
+
+
+
+
 
